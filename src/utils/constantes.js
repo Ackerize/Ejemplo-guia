@@ -1,0 +1,1 @@
+export const API_HOST = `https://redoil-api.herokuapp.com/api`;
